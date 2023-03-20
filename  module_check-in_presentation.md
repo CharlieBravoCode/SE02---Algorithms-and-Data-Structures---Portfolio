@@ -6,12 +6,14 @@ footer: 'Derivation of Time Complexities'
 ---
 
 <!-- _class: lead -->
-# Derivation of Time Complexities
-### Algorithms and Data Structures
-### Christoph Brauer
-### Date: 28th March 2023
+<p style= "bold; text-align: center;">Algorithms and Data Structures: Module Check-in</p>
+<br>
 
----
+# <p style= "bold; text-align: center;">Derivation of Time Complexities</p>
+<br><br>
+<p style= "text-align: right;">Christoph Brauer</p>
+<p style= "text-align: right;">28th March 2023</p>
+
 
 <!-- Speaker notes -->
 <!-- Notes: Welcome everyone to this presentation on the derivation of time complexities in the context of algorithms and data structures. We'll be covering the importance of time complexity, asymptotic notations, and how to analyze loops. -->
